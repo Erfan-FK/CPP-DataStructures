@@ -1,6 +1,6 @@
 # C++ Data Structures Library
 
-<img src="https://your-image-url.com" alt="C++ Data Structures" width="250" height="250">
+<img src="https://i.hizliresim.com/7t0zgng.png" alt="C++ Data Structures" width="250" height="250">
 
 This repository contains a collection of well-crafted and efficient data structures implemented in C++.
 
