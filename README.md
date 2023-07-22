@@ -12,10 +12,10 @@ The primary objective of this project is to provide a comprehensive set of C++ d
 
 ### Recursion
 - [Factorial](./Recursion/Factorial.h)
-- [Fibonacci](.Recursion/Fibonacci.h)
-- [Power](.Recursion/Power.h)
-- [SumOfN](.Recursion/SumOfN.h)
-- [TowerOfHanoi](Recursion\TowerOfHanoi.h)
+- [Fibonacci](./Recursion/Fibonacci.h)
+- [Power](./Recursion/Power.h)
+- [SumOfN](./Recursion/SumOfN.h)
+- [TowerOfHanoi](./Recursion/TowerOfHanoi.h)
 
 ### Matrices
 - [TriDiagonal](./Matrices/TriDiagonal.h)
