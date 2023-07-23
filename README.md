@@ -23,6 +23,7 @@ The primary objective of this project is to provide a comprehensive set of C++ d
 - [LowerTriangle](./Matrices/LowerTriangle.h)
 - [Symmetric](./Matrices/Symmetric.h)
 - [Toeplitz](./Matrices/Toeplitz.h)
+- [Sparse](./Matrices/Sparse.h)
 
 ### Strings
 - [Anagrams](./Strings/Anagrams.h)
@@ -35,5 +36,8 @@ The primary objective of this project is to provide a comprehensive set of C++ d
 - [MergeSort](./Array/MergeSort.h)
 - [Array](./Array/Array.h)
 - [BinarySearch](./Array/BinarySearch.h)
+
+### Polynomial
+- [Polynomial](./Polynomial/Polynomial)
 
 ## More On Its Way
