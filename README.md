@@ -38,6 +38,6 @@ The primary objective of this project is to provide a comprehensive set of C++ d
 - [BinarySearch](./Array/BinarySearch.h)
 
 ### Polynomial
-- [Polynomial](./Polynomial/Polynomial)
+- [Polynomial](./Polynomial/Polynomial.h)
 
 ## More On Its Way
