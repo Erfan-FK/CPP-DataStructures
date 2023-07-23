@@ -2,7 +2,7 @@
 #include "string"
 #include "sstream"
 
-#include "../Searchs/BinarySearch.h"
+#include "BinarySearch.h"
 
 #ifndef CPP_ARRAY_H
 #define CPP_ARRAY_H

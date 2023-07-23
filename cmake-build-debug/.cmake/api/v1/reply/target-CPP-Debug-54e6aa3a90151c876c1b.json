@@ -116,7 +116,9 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -216,6 +218,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "Matrices/Toeplitz.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Matrices/Sparse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Polynomial/Polynomial.h",
 			"sourceGroupIndex" : 1
 		}
 	],
